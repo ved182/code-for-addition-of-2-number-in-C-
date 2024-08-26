@@ -9,6 +9,5 @@ int main()
 	cin>>num2;
 	sum=num1+num2;
     cout<<sum;
-    
-	return 0;
+return 0;
 }
